@@ -1,6 +1,6 @@
 /**
  *ICE 22.1
- *@author John Erickson
+ *@author 
  *@unityID jcericks
  *class HuntLibrary prints information about books checked out or in 
  */
